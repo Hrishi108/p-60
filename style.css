@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+
+}
+
+#app {
+    width: 100%;
+    height: 800px;
+    background: linear-gradient(#9105fc 0%, #fc9905 100%);
+}
+
+#Games {
+    width: 100%;
+
+    background: linear-gradient(#fc9905 0%, #9105fc 100%);
+}
+
+#Chatbot {
+    width: 100%;
+    height: 800px;
+    background-color: aqua;
+}
+img:hover{
+transform: scale(0.9);
+}
+
